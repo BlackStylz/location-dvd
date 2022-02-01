@@ -2,5 +2,5 @@
 
 Réalisations de plusieurs missions sur un service de location de DVD
 
-Schéma de la base de données sur le fichier image "Schéma"
+Schéma de la base de données sur le fichier image Schéma.png
 Base se données fichier dvdrental.tar
